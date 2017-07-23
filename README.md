@@ -2,4 +2,4 @@
 
 A lightweight Vector 2D tool.
 
-run [tests](test/test.html)
+[website](https://yannprada.github.io/vector.js/)
